@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contextual_Action_Mode_Listview</string>
+
+    <string-array name="android_versions_list">
+        <item>Ice cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>Kitkat</item>
+        <item>Lolipop</item>
+        <item>Marshmellow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+        <item>Pie</item>
+        <item>Q</item>
+    </string-array>
+
+</resources>
